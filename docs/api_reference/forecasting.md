@@ -11,4 +11,5 @@
     BaseForecaster
     RegressionForecaster
     ETSForecaster
+    NaiveForecaster
 ```
